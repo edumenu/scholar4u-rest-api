@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4508e833-5dbb-424c-bc00-31b63d4a0c82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scholar4u_api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scholar4u_api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scholar4u_api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/scholar4u_api/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scholar4u_api/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/scholar4u_api/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scholar4u_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/scholar4u_api/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scholar4u_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/scholar4u_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scholar4u_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/scholar4u_project/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,5 +45,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585450604811">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="543" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1585450604811" />
   </component>
 </project>
